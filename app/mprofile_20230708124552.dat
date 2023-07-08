@@ -1,5 +1,0 @@
-CMDLINE /Users/kavi/workspaces/personal/demo-python-memory-profiler/app/.venv/bin/python main.py
-MEM 0.105469 1688845552.6821
-MEM 16.003906 1688845552.7829
-MEM 37.839844 1688845552.8858
-MEM 110.792969 1688845552.9869
