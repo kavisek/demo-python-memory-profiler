@@ -39,3 +39,11 @@ push: build
 
 attach:
 	docker exec -it $(CONTAINER_NAME) /bin/bash
+
+
+# Memory Profiler Commands
+mrun:
+	poetry run mprof run main.py
+
+mplot:
+	poetry run mprof plot

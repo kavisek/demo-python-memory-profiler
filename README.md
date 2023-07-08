@@ -1,13 +1,14 @@
-# template-workspace
-A template workspace
+# Python Memory Profiler
 
 ## Description
 
-{TBD}
-
 ## Setup
 
-{TBD}
+```
+poetry add memory_profiler matplotlib
+```
+
+![](./images/result.png)
 
 ## References
 
